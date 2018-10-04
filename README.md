@@ -49,12 +49,12 @@ Los datos constituyen los atributos del concepto u objeto definido por medio del
 
 Lista de operaciones: se forma por el conjunto de operaciones que se definen como validas para el tipo abstracto de datos.
 
-Para cada operacion deberá indicarse:
- Entrada: generalmente proporcionada por el usuario.
- Precondiciones: establecen la situacion en la cual se aplicará la operación.
- Proceso: es el conjunto de acciones que definen la operacion.
- Salida: valores proporcionados, luego de la operacion, al usuario.
- Postcondiciones: indican las condiciones qe deberán complirse una vez ejecutada la operación.
+Para cada operacion deberá indicarse: 
+ Entrada: generalmente proporcionada por el usuario. 
+ Precondiciones: establecen la situacion en la cual se aplicará la operación. 
+ Proceso: es el conjunto de acciones que definen la operacion. 
+ Salida: valores proporcionados, luego de la operacion, al usuario. 
+ Postcondiciones: indican las condiciones qe deberán complirse una vez ejecutada la operación. 
 
 La mayoria de los tipos abstractos de datos tienen una operacion especial, llamada inicializador, 
 que asigna valores iniciales a los datos.
@@ -70,16 +70,16 @@ Tipo Abstracto de Datos:
 
 Nombre del tipo abstracto de datos:
 
-Datos:
+Datos: 
  Nombre del dato: Tipo del dato
 
-Operaciones
- Inicializador
- Operacion 1
- Operacion 2
- .
- .
- .
+Operaciones 
+ Inicializador 
+ Operacion 1 
+ Operacion 2 
+ . 
+ . 
+ . 
  Operacion n
 
 Fin de Tipo Abstracto de datos
@@ -91,20 +91,20 @@ de datos correspondiente.
 
 Dominio: alumno universitario.
 
-Datos: representan las caracteristicas mas importantes de todo alumno universitario.
- Nombre: cadena de caracteres.
- Direccion: cadena de caracteres.
- Matricula: numero entero.
- Año de ingreso: numero entero.
- Carrera: cadena de caracteres.
- Promedio: numero real.
+Datos: representan las caracteristicas mas importantes de todo alumno universitario. 
+ Nombre: cadena de caracteres. 
+ Direccion: cadena de caracteres. 
+ Matricula: numero entero. 
+ Año de ingreso: numero entero. 
+ Carrera: cadena de caracteres. 
+ Promedio: numero real. 
 
 Operaciones validas: representan aquellas operaciones que se pueden realizar sobre o con los 
 datos de un alumno universitario.
 
- Actualizar direccion: un alumno puede cambiar de domicilio.
- Actualizar promedio: un alumno aprueba materias.
- Actualizar carrera: un alumno puede cambiar de carrera.
+ Actualizar direccion: un alumno puede cambiar de domicilio. 
+ Actualizar promedio: un alumno aprueba materias. 
+ Actualizar carrera: un alumno puede cambiar de carrera. 
 
 ## Orientaciona objetos: conceptos
 
