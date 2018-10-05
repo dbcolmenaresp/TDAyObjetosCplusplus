@@ -51,7 +51,7 @@ los datos.
 
 El tipo abstracto de datos debe verse como una caja negra que encierra todo lo relacionado al concepto que esta describiendo.
 
-Se trata de abstraer los * datos * (atributos) y las * operaciones * (metodos) comunes a un conjunto de objetos. Permite ver el concepto como un todo, sin tener que distraer la atencion en los detalles.
+Se trata de abstraer los *datos* (atributos) y las *operaciones* (metodos) comunes a un conjunto de objetos. Permite ver el concepto como un todo, sin tener que distraer la atencion en los detalles.
 
 ## Elementos de un tipo abstracto de datos:
 
