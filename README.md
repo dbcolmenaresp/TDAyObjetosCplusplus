@@ -180,4 +180,4 @@ Fundamentos de programacion de Luis Joyanes Aguilar, capitulo 2, seccion 2.4, pa
 
 # REFERENCIAS
 
-
+[![Fundamentos de Tipo Abstracto de Datos](https://img.youtube.com/vi/Kcnp3e17Gq4/0.jpg)](https://www.youtube.com/watch?v=Kcnp3e17Gq4)
