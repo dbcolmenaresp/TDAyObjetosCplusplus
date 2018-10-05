@@ -11,11 +11,15 @@ La abstraccion consiste en tomar las cualidades o caracteristicas que resultan m
 con el fin de delimitar el analisis de este. Permite concentrarse en la parte mas importante de u problema, 
 con el fin de solucionarlo facilmente.
 
+Abstraer consiste en separar por medio de una operacion inteleccual, una cualidad de un objeto o concepto especifico en el que existe y considerar dicha cualidad aisladamente del objeto o concepto analizado.
+
 Ejemplos de una abstraccion son:  
 * Los mapas 
 * Los planos de una casa.
 
-Para un objeto o concepto pueden existir varias descripciones de diferentes niveles de detalle, 
+El proposito de un mapa es representar los aspectos escenciales del territorio, no el territorio con todos sus detalles, al igual que los diferentes planos de una casa reppresentan aspectos básicos de la misma para su construcción.
+
+Para un objeto o concepto pueden existir varias descripciones de diferentes niveles de detalle o niveles de abstracción, 
 de acuerdo al proposito de su creacion, del contexto donde se ubica y de la perspectiva del analista.
 una descripcion completa y detallada de un objeto o concepto puede representar adecuadamente la realidad 
 y ser de mayor utilidad en un una mayor variedad de contexos, pero representa un nivel de complejidad 
@@ -173,3 +177,7 @@ aplicará.
 
 Para una referencia a los conceptos de la orientacion a objetos, referirse a 
 Fundamentos de programacion de Luis Joyanes Aguilar, capitulo 2, seccion 2.4, pagina 56.
+
+# REFERENCIAS
+
+
