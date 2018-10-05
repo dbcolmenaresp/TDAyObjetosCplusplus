@@ -1,6 +1,6 @@
 # Conceptos básicos de Tipo Abstracto de Datos y Orientación a Objetos en C++
 
-> La habilidad para simplificar significa eliminar lo innecesario para que lo necesario pueda hablar. Hans Hofman.
+> *La habilidad para simplificar significa eliminar lo innecesario para que lo necesario pueda hablar. Hans Hofman.*
 
 ## Abstraccion
 
