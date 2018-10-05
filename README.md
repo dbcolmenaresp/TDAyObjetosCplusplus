@@ -1,5 +1,4 @@
-# TDAyObjetosCplusplus
-Conceptos básicos de Tipo Abstracto de Datos y Orientación a Objetos en C++
+# Conceptos básicos de Tipo Abstracto de Datos y Orientación a Objetos en C++
 
 > La habilidad para simplificar significa eliminar lo innecesario para que lo necesario pueda hablar. Hans Hofman.
 
@@ -13,8 +12,8 @@ con el fin de delimitar el analisis de este. Permite concentrarse en la parte ma
 con el fin de solucionarlo facilmente.
 
 Ejemplos de una abstraccion son:  
-* Los mapas 
-* Los planos de una casa.
+ : Los mapas 
+ : Los planos de una casa.
 
 Para un objeto o concepto pueden existir varias descripciones de diferentes niveles de detalle, 
 de acuerdo al proposito de su creacion, del contexto donde se ubica y de la perspectiva del analista.
