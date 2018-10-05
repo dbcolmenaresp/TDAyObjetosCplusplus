@@ -12,8 +12,8 @@ con el fin de delimitar el analisis de este. Permite concentrarse en la parte ma
 con el fin de solucionarlo facilmente.
 
 Ejemplos de una abstraccion son:  
- : Los mapas 
- : Los planos de una casa.
+* Los mapas 
+* Los planos de una casa.
 
 Para un objeto o concepto pueden existir varias descripciones de diferentes niveles de detalle, 
 de acuerdo al proposito de su creacion, del contexto donde se ubica y de la perspectiva del analista.
@@ -30,21 +30,28 @@ Se requiere hacer un balance que permita obtener un nivel adecuado entre la comp
 
 ## Tipos abstractos de datos
 
-La abstraccion de los datos permite definir el dominio y la estrucutra de los datos, el conjunto 
+La definicion de un Tipo Abstracto de Datos permite definir el dominio y la estrucutra de los datos, el conjunto 
 de atributos que caracterizan a estos datos, asi como las operaciones validas aplicables sobre los mismos.
+
+Hagamos un analisis epistemologico de este termino para aclarar su significado.
+
+Tipo: clase, categoria o dvision establecida teniendo en cuenta determinadas cualidades, condiciones o criterios de claseificacion.
+
+Abstracto: algo que no es concreto, que es conceptual.
+
+Datos: Elementos básicos con los cuales se realizan las operaciones.
+
+Abstraccion: Separacion mental de las cualidades de una cosa y de su realidad fisica para considerarlas aisladamente.
 
 La abstraccion es un mecanismo por medio del cual se define un concepto general a partir del conocimiento 
 que se tenga de objetos particulares.
 
-Como resultado de la aplicacion de la abstraccion se obtiene un tipo abstracto de datos, el cual 
-es un tipo de datos definido por el usuario, cuyas operaciones especifican como un cliente puede manipular 
+Como resultado de la aplicacion de la abstraccion se obtiene un tipo abstracto de datos que no representa un objeto sino sus cualidades y caracteristicas, el cual es un tipo de datos definido por el usuario, cuyas operaciones especifican como un cliente puede manipular 
 los datos.
 
-El tipo abstracto de datos debe verse como una caja negra que encierra todo lo relacionado 
-al concepto que esta describiendo.
+El tipo abstracto de datos debe verse como una caja negra que encierra todo lo relacionado al concepto que esta describiendo.
 
-Se trata de abstraer los datos (atributos) y las operaciones (metodos) comunes a un conjunto de objetos.
-Permite ver el concepto como un todo, sin tener que distraer la atencion en los detalles.
+Se trata de abstraer los * datos * (atributos) y las * operaciones * (metodos) comunes a un conjunto de objetos. Permite ver el concepto como un todo, sin tener que distraer la atencion en los detalles.
 
 ## Elementos de un tipo abstracto de datos:
 
@@ -56,11 +63,12 @@ Los datos constituyen los atributos del concepto u objeto definido por medio del
 Lista de operaciones: se forma por el conjunto de operaciones que se definen como validas para el tipo abstracto de datos.
 
 Para cada operacion deberá indicarse:  
- Entrada: generalmente proporcionada por el usuario.  
- Precondiciones: establecen la situacion en la cual se aplicará la operación.  
- Proceso: es el conjunto de acciones que definen la operacion.  
- Salida: valores proporcionados, luego de la operacion, al usuario.  
- Postcondiciones: indican las condiciones qe deberán complirse una vez ejecutada la operación.  
+
+* Entrada: generalmente proporcionada por el usuario.  
+* Precondiciones: establecen la situacion en la cual se aplicará la operación.  
+* Proceso: es el conjunto de acciones que definen la operacion.  
+* Salida: valores proporcionados, luego de la operacion, al usuario.  
+* Postcondiciones: indican las condiciones qe deberán complirse una vez ejecutada la operación.  
 
 La mayoria de los tipos abstractos de datos tienen una operacion especial, llamada inicializador, 
 que asigna valores iniciales a los datos.
@@ -112,7 +120,7 @@ datos de un alumno universitario.
  Actualizar promedio: un alumno aprueba materias.  
  Actualizar carrera: un alumno puede cambiar de carrera.  
 
-## Orientaciona objetos: conceptos
+## Orientaciona objetos: Conceptos
 
 La orientación a objetos es el paradigma de construcción de software mas usado y popular en 
 el desarrollo de software moderno, dado que permite una perspectiva más realista para la 
