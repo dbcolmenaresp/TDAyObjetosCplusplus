@@ -5,11 +5,16 @@ Conceptos básicos de Tipo Abstracto de Datos y Orientación a Objetos en C++
 
 ## Abstraccion
 
-La abstraccion consiste en ignorar aquellos aspectos del objeto a describir que no son relevantes, 
-para de esta manera concentrarse en los que si lo son.
-
-Es el principio que permite al observador del objeto o concepto que se requiere representar, 
+La abstraccion es el principio que permite al observador del objeto o concepto que se requiere representar, 
 ignorar aquellos aspectos que no son relevantes, para de esta manera concentrase en los que si lo son.
+
+La abstraccion consiste en tomar las cualidades o caracteristicas que resultan mas relevantes de un objeto, 
+con el fin de delimitar el analisis de este. Permite concentrarse en la parte mas importante de u problema, 
+con el fin de solucionarlo facilmente.
+
+Ejemplos de una abstraccion son:  
+* Los mapas 
+* Los planos de una casa.
 
 Para un objeto o concepto pueden existir varias descripciones de diferentes niveles de detalle, 
 de acuerdo al proposito de su creacion, del contexto donde se ubica y de la perspectiva del analista.
