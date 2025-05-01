@@ -157,20 +157,24 @@ mensajes a otros objetos.
 
 Las propiedades fundamentales que caracterizan la orientacion a objetos son las siguientes:
 
-Abstracción consiste en ignorar aquellos aspectos del objeto o concepto a describir que no 
+### Abstracción 
+Consiste en ignorar aquellos aspectos del objeto o concepto a describir que no 
 son relevantes, para de esta manera concentrarse en los que si lo son.
 
-Encapsulamiento consiste en incluir dentro de una clase todos los atributos y metodos que la 
+### Encapsulamiento 
+Consiste en incluir dentro de una clase todos los atributos y metodos que la 
 definen, de tal manera que otros objetos puedan usarla sin necesidad de conocer su estructura 
 interna.
 
-Ocultación
+### Ocultación
 
-Herencia permite compartir atributos y metodos entre clases y las clases derivadas, tambien 
+### Herencia 
+Permite compartir atributos y metodos entre clases y las clases derivadas, tambien 
 llamadas subclases, las cuales heredan atributos y metodos de las plases superiores, que 
 reciben el nombre de superclases o clases base.
 
-Polimorfismo una operacion puede tener el mismo nombre en diversas clases y funcionar de 
+### Polimorfismo 
+Una operacion puede tener el mismo nombre en diversas clases y funcionar de 
 manera diferente en cada una, lo cual permite la implementacion de multiples formas de un 
 mismo metodo, de tal manera que cada una de ellas se adapte a la clase sobre la cual se 
 aplicará.
@@ -181,3 +185,5 @@ Fundamentos de programacion de Luis Joyanes Aguilar, capitulo 2, seccion 2.4, pa
 # REFERENCIAS
 
 [![Fundamentos de Tipo Abstracto de Datos](https://img.youtube.com/vi/Kcnp3e17Gq4/0.jpg)](https://www.youtube.com/watch?v=Kcnp3e17Gq4)
+
+https://drive.google.com/file/d/1TlBJK2GQtObK7k9pf9McbLsrlWUtdgMf/view
