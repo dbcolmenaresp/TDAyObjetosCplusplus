@@ -158,8 +158,8 @@ mensajes a otros objetos.
 Las propiedades fundamentales que caracterizan la orientacion a objetos son las siguientes:
 
 ### Abstracción 
-Consiste en ignorar aquellos aspectos del objeto o concepto a describir que no 
-son relevantes, para de esta manera concentrarse en los que si lo son.
+La abstracción es uno de los pilares fundamentales de la programación orientada a objetos. Su objetivo principal es simplificar la complejidad de un sistema al trabajar con conceptos clave y esenciales, dejando de lado los detalles técnicos que no son necdesarios para la comprensión o uso inmediato.
+Consiste en ignorar aquellos aspectos del objeto o concepto a describir que no son relevantes, para de esta manera concentrarse en los que si lo son.
 
 ### Encapsulamiento 
 Consiste en incluir dentro de una clase todos los atributos y metodos que la 
