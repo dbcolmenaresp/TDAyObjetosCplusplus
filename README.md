@@ -89,7 +89,12 @@ Tipo Abstracto de Datos:
 Nombre del tipo abstracto de datos:
 
 Datos:  
- Nombre del dato: Tipo del dato
+ Nombre del dato1: Tipo del dato
+ Nombre del dato2: Tipo del dato
+ .
+ .
+ .
+ Nombre del daton: Tipo del dato
 
 Operaciones  
  Inicializador  
@@ -109,7 +114,7 @@ de datos correspondiente.
 
 Dominio: alumno universitario.
 
-Datos: representan las caracteristicas mas importantes de todo alumno universitario. 
+ Datos: representan las caracteristicas mas importantes de todo alumno universitario. 
  Nombre: cadena de caracteres.  
  Direccion: cadena de caracteres.  
  Matricula: numero entero.  
@@ -123,6 +128,13 @@ datos de un alumno universitario.
  Actualizar direccion: un alumno puede cambiar de domicilio.  
  Actualizar promedio: un alumno aprueba materias.  
  Actualizar carrera: un alumno puede cambiar de carrera.  
+
+## Implementación de Tipos Abstractos de Datos en lenguaje C++
+
+Para implementar los tipos abstractos de datos en el lenguaje de programación C++, se usan clases
+
+Class
+ 
 
 ## Orientaciona objetos: Conceptos
 
