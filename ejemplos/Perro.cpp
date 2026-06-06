@@ -1,3 +1,8 @@
+/*
+Una clase es un tipo de dato definido por el usuario que agrupa datos (atributos) y funciones (métodos). 
+Un objeto es una instancia concreta de esa clase en memoria.
+*/
+
 #include <iostream>
 #include <string>
 using namespace std;
